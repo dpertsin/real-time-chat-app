@@ -18,19 +18,18 @@ This is a full Realtime Chat Application like Slack or Discord made with React.j
 
 
 ## Table of Contents
-<ul>
-    <li>[Features](#features)</li>
-    <li>[Built using](#built-using)</li>
-    <li>[Structure](#structure)</li>
-    <li>[Roadmap](#roadmap)</li>
-    <li>[Contributing](#contributing)</li>
-    <li>[Feedback](#feedback)</li>
-    <li>[Deployment on the Web](#deployment-on-the-web)</li>
-    <li>[Running app locally](#running-app-locally)</li>
-    <li>[Credits](#credits)</li>
-    <li>[License](#license)</li>
-    <li>[Enjoy!](#enjoy!)</li>
-</ul>
+
+- [Features](#features)
+- [Built using](#built-using)
+- [Structure](#structure)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Feedback](#feedback)
+- [Deployment on the Web](#deployment-on-the-web)
+- [Running app locally](#running-app-locally)
+- [Credits](#credits)
+- [License](#license)
+- [Enjoy!](#enjoy)
 
 ### Features
 
@@ -133,21 +132,21 @@ The MIT License is short and to the point. It lets people do almost anything the
 Don't forget to play around with the code and practice with it! 
 
 You can connect with me on:
+
 [<img align="left" alt="prtmedia.gr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="PRTmedia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="PRTmedia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<!-- [<img align="left" alt="PRTmedia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="PRTmedia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PRTmedia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PRTmedia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
-Last but not least, give this project a star if you liked it. 
+### Last but not least, give this project a star if you liked it. 
 
-
-
-
-
-
-
-
+[website]: https://www.prtmedia.gr/
+[facebook]: https://www.facebook.com/prtmediaco
+[twitter]: https://twitter.com/DimitriosPerts1
+[youtube]: #
+[instagram]: https://www.instagram.com/prtmediaco/
+[linkedin]: https://www.linkedin.com/company/prtmedia/
